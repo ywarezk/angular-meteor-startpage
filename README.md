@@ -10,4 +10,10 @@ This project contains a simple 3 way binding implemented in a messageapp, you ca
 curl https://install.meteor.com | /bin/sh
 ```
 - Clone this repo
+- Go to the folder and run:
+```
+meteor
+```
+Installed and ready for use, now open your browser at localhost:3000 and see the app
+
 
