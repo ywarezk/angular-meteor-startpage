@@ -1,3 +1,12 @@
+<!--
+	Angular template containning the message app screen
+	
+	Created January 23rd, 2015
+	@author: Yariv Katz
+	@version: 1.0
+	@copyright: Nerdeez LTD
+-->
+
 <div class="layout">
 	<div class="messages">
 		<ul>
